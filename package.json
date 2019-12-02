@@ -1,0 +1,23 @@
+{
+  "name": "module-alias-library",
+  "version": "1.0.0",
+  "description": "Showcasing how to use module-alias from some library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kehrlann/module-alias-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kehrlann/module-alias-library/issues"
+  },
+  "homepage": "https://github.com/Kehrlann/module-alias-library#readme",
+  "dependencies": {
+    "module-alias": "^2.2.2"
+  }
+}

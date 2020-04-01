@@ -13,6 +13,7 @@
     "module-alias-nested-library": "1.0.0"
   },
   "_moduleAliases": {
-    "@deep": "src/some/deep"
+    "@deep": "src/some/deep",
+    "@wildcard": "src/several"
   }
 }
